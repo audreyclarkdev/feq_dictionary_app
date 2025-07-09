@@ -1,5 +1,7 @@
 # Dev Divas Dictionary App
 
+## View here: https://feq-dictionary.netlify.app/
+
 ## The Project
 
 Our goal was to create a real-world dictionary web app according to the guidelines presented by [Front End Mentor](https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL). The user can:
